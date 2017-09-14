@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('./assets/music-bkgd.png') bottom center;
+  background: url('../assets/music-bkgd.png') bottom center;
   background-size: cover;
 }
 body,html {
